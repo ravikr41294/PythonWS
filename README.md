@@ -1,2 +1,4 @@
 # PythonWS
-Repo to store my personal python projects
+Repo to store my personal python projects.
+
+
